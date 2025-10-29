@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">ArtSpace</string>
+
+    <string name="bridge_title">Sailing Under the Bridge</string>
+    <string name="bridge_artist_year">Kat Kuan (2017)</string>
+    <string name="bridge_content_description">Низкий ракурс на мост Золотые Ворота, под ним парусная лодка.</string>
+
+    <string name="flowers_title">Still Life of Blue Rose and Other Flowers</string>
+    <string name="flowers_artist_year">Owen Scott (2021)</string>
+    <string name="flowers_content_description">Натюрморт, нарисованный карандашом, с синей розой в вазе.</string>
+
+    <string name="monalisa_title">Mona Lisa</string>
+    <string name="monalisa_artist_year">Leonardo da Vinci (c. 1503–1506)</string>
+    <string name="monalisa_content_description">Портрет Моны Лизы работы Леонардо да Винчи.</string>
+
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+</resources>
